@@ -1,0 +1,2 @@
+MONGO_DATABASE_NAME = "PWSkills"
+MONGO_COLLECTION_NAME = "PhisingInternship"
