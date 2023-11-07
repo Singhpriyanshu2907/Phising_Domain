@@ -6,6 +6,7 @@ import os
 from src.pipeline.training_pipeline import TraininingPipeline
 from src.pipeline.prediction_pipeline import PredictionPipeline
 
+
 app = Flask(__name__)
 
 @app.route("/")
